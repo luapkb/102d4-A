@@ -1,6 +1,6 @@
 [Using Markdown](https://luapkb.github.io/learning-Journal/using-markdown)
 
-[chosing a code editor]()
+[Chosing a code editor]()
 
 
 ## Voyage 01 08/26/20019
