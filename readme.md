@@ -1,3 +1,7 @@
+[Using Markdown](https://luapkb.github.io/learning-Journal/using-markdown)
+[chosing a code editor]()
+
+
 ## Voyage 01 08/26/20019
 
 ## *The Code Embarcation of Paul Bennett*
