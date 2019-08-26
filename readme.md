@@ -1,6 +1,6 @@
 ## Voyage 01 08/26/20019
 
-## *The code Embarcation of Paul Bennett*
+## *The Code Embarcation of Paul Bennett*
 
 This Page is a dedicated and historical depiction of my education and personal development in coding.  I hope to provide a logical, navigable, and accessible for my own reference and for a showcase of my progress.
 
