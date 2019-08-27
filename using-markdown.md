@@ -17,6 +17,8 @@ Markdown was developed by John Gruber and released in 2004 it is a popular way o
   * There are a number of small issues that made it hard to port - Markdown between sites and versions. [ref](https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/)
 
 Here are some nice refrences have found for both advantage and Disadvantage. 
+
 [https://daringfireball.net](https://daringfireball.net)
+
 [https://dillinger.io](https://dillinger.io)
 
