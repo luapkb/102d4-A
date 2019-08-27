@@ -22,9 +22,12 @@ It is important to remind yourself to keep a growth mindset.  It's really not th
 1. _Help is almost always available and is important in the learning process._
 
 
-my name is Paul and I look forward to getting to know you.
+My name is Paul and I look forward to getting to know you.
 
 ##### https://github.com/luapkb/learning-Journal
+
+
+# **THE FOLLOWING IS MARKDOWN CODE THAT WILL EVENTUALLY BE REPLACED BY THE TEXT AND ATTRIBUTES OF THIS PAGE**
 
 ## Welcome to GitHub Pages
 
