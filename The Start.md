@@ -11,7 +11,6 @@
 This Page is a dedicated and historical depiction of my education and personal development in coding.  I hope to provide a logical, navigable, and accessible for my own reference and for a showcase of my progress.
 
 
-& this is a test
 
 For the success of the students at Code Fellows We are ask to focus on maintaining a **“growth mindset”**.  This is the ideology that a person's intelligence is not fixed but changeable by the experiences in the present and relative past.  Maintaining a positive attitude and seeking to overcome challenges rather than see difficulty as an obstacle is an important aspect of maintaining a growth mindset.  
 
