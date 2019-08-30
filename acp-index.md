@@ -1,3 +1,7 @@
+# markdown notes 
+ 
+I missundersood the assiongment and used the html insted of markdown to write the assingment.  Using backticks I am able to show the html witin a markdown format. 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,8 +26,7 @@
                 </P>
 
         </Article>
-
-
-    
+            
 </body>
 </html>
+```
