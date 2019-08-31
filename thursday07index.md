@@ -1,3 +1,10 @@
+# Javacript notes
+
+below are my notes in htmml
+
+```
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,4 +77,4 @@
 
 
 </html>
-
+```
