@@ -9,5 +9,5 @@
 ### The real work can be seen [here ](https://luapkb.github.io/html-trial/ )
 
 ### css can be seen [here](hand-rolled.css)
-
-### 
+ 
+ ### the script file being built can be viewed [hrere](thursday07index.md)
